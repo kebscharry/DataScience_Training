@@ -10,3 +10,5 @@ Platformer Game in Python: An engaging platformer game with smooth animations an
 Explore my repositories to see more of my work. I'm always open to collaboration and eager to learn new things. Feel free to reach out!
 
 Happy coding!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kebscharry)](https://github.com/anuraghazra/github-readme-stats)
